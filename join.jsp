@@ -7,7 +7,7 @@
     <link rel="stylesheet" 
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
           crossorigin="anonymous">
-    <title>JSP Board</title>
+    <title>Team-5-Board</title>
 </head>
 <body>
     <nav class="navbar navbar-default">
@@ -18,7 +18,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="main.jsp">JSP Board Website</a>
+            <a class="navbar-brand" href="main.jsp">Team-5-Board</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">

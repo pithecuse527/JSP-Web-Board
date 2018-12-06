@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>JSP Board</title>
+    <title>Team-5-Board</title>
 </head>
 <body>
     <% session.invalidate(); %>
