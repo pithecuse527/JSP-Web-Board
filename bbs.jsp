@@ -11,6 +11,7 @@
     <link rel="stylesheet" 
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
           crossorigin="anonymous">
+    <link rel="stylesheet" href="css/custom.css">
     <title>Team-5-Board</title>
     <style type="text/css">
         a, a:hover {
@@ -40,6 +41,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="main.jsp">Main</a></li>
                 <li><a href="bbs.jsp" class="active">Board</a></li>
+                <li><a href="members.jsp">Members</a></li>
             </ul>
             <%
                 if(userID == null) {
