@@ -91,6 +91,7 @@
                         </tr>
                     </tbody>
                 </table>
+                <span class='text-primary'>Please use English only.</span>
                 <input type="submit" class="btn btn-primary pull-right" value="Edit">
             </form>
         </div>

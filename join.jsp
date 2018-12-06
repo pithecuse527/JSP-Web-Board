@@ -72,6 +72,12 @@
                                maxlength="20">
                     </div>
                     <input type="submit" class="btn btn-primary form-control" value="Sign up"></input>
+                    <div>
+                        <br>
+                    </div>
+                    <div align="center">
+                        <span class="text-primary">Please use English only.</span>
+                    </div>
                 </form>
             </div>
         </div>
