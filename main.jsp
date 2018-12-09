@@ -69,9 +69,9 @@
         <div class="jumbotron">
             <div class="container">
                 <h1>Welcome!</h1>
-                <p>Simple JSP Website using Model 1. This wesite is created for UOU Linux System & Labs class. (Team-5)</p>
-                <p><a class="btn btn-primary btn-pull" href="https://github.com/pithecuse527/JSP-Web-Board" role="button">source codes</a></p>
-                
+                <p>Simple JSP Website using Model 1.</p>
+                <p>This website is created for UOU Linux System & Labs class. (Team-5)</p>
+                <p><a class="btn btn-primary btn-pull" href="https://github.com/pithecuse527/JSP-Web-Board" role="button">source codes</a></p> 
             </div>
         </div>
     </div>

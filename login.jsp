@@ -55,6 +55,10 @@
                     </div>
                     <input type="submit" class="btn btn-primary form-control" value="Sign in"></input>
                 </form>
+                <div align="center">
+                    <br>
+                    <a href="join.jsp">Sign up for this site.</a>
+                </div>
             </div>
         </div>
         <div class="col-lg-4"></div>
