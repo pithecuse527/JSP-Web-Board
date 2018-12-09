@@ -62,6 +62,13 @@
             %>
         </div>
     </nav>
+    <!--
+        20182123   유상훈
+    20182139   정태윤
+                   20182916   정동민
+                   20182137   정귀인 
+
+    -->
     <div class="container">
         <div class="col-lg-4"></div>
         <div class="col-lg-4">
@@ -69,10 +76,28 @@
                 <h2 style="text-align: center;">Members</h2>
                 <br>
                 <div>
-                    <h5 style="text-align: center;">20151234 Hong</h5>
+                    <h5 style="text-align: center;">20182123 유상훈</h5>
                 </div>
                 <div>
-                    <h5 style="text-align: center;">20161234 Kim</h5>
+                    <h5 style="text-align: center;">20182139 정태윤</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20182916 정동민</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20182137 정귀인</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20152262 지홍근</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20152226 오경찬</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20152240 이헌준</h5>
+                </div>
+                <div>
+                    <h5 style="text-align: center;">20142235 이태현</h5>
                 </div>
             </div>
         </div>
