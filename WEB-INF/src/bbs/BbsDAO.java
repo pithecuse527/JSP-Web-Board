@@ -1,5 +1,7 @@
 package bbs;
 
+//sudo /etc/init.d/mysql restart
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;

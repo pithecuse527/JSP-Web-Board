@@ -77,7 +77,8 @@
         </div>
     </nav>
     <div class="container">
-        <div class="row">
+        <div 
+             class="row">
             <table class="table table-striped" style="text-align: center; border: 1px solid #dddddd">
                 <thead>
                     <tr>
@@ -113,7 +114,7 @@
             <%
                 }
             %>
-            <input type="submit" class="btn btn-primary pull-right" value="Post">
+            
         </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
